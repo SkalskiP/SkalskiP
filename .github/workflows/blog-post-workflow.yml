@@ -1,7 +1,9 @@
 name: Latest blog post workflow
 on:
-schedule:
-  - cron: '0 * * * *'
+  schedule:
+    - cron: '0 * * * *'
+  push:
+    branches: [ master ]
 jobs:
 update-readme-with-blog:
 name: Update this repo's README with latest blog posts
@@ -10,4 +12,5 @@ steps:
   - uses: actions/checkout@v2
   - uses: gautamkrishnar/blog-post-workflow@master
     with:
-      feed_list: "https://medium.com/feed/@piotr.skalski92"
+     max_post_count: "3" 
+     feed_list: "https://medium.com/feed/@piotr.skalski92"
