@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skalskip" alt="skalskip" /> </p>
+
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 <h3 align="center">Computer Vision Tech Lead @VirtusLab | Founder @ makesense.ai</h3>
 
@@ -9,13 +11,6 @@
 <a href="https://medium.com/@piotr.skalski92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@piotr.skalski92" height="20" width="20" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skalskip" alt="skalskip" /> </p>
-
-- 🔭 I’m currently working on [Make Sense](https://www.makesense.ai/)
-
-- 📝 I regulary write articles on [Medium](https://medium.com/@piotr.skalski92)
-
-- ⚡ Fun fact I ❤️ 🏀
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
