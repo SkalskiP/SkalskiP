@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 <h3 align="center">Computer Vision Tech Lead @VirtusLab | Founder @ makesense.ai</h3>
-<h3 align="center">Computer Science Graduate @ AGH UST Cracow | Civil Engineering Graduate @ Cracow UoT</h3>
 
 <p align="center">
 <a href="https://dev.to/skalskip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="skalskip" height="20" width="20" /></a>
