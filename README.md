@@ -11,7 +11,6 @@
 <a href="https://medium.com/@piotr.skalski92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@piotr.skalski92" height="20" width="20" /></a>
 </p>
 
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Let’s code Convolutional Neural Network in plain NumPy](https://towardsdatascience.com/lets-code-convolutional-neural-network-in-plain-numpy-ce48e732f5d5?source=rss-11b65705ec0------2)
@@ -19,7 +18,7 @@
 - [Chess, rolls or basketball? Let’s create a custom object detection model](https://towardsdatascience.com/chess-rolls-or-basketball-lets-create-a-custom-object-detection-model-ef53028eac7d?source=rss-11b65705ec0------2)
 <!-- BLOG-POST-LIST:END -->
 
-
+<br/>
 
 <p align="center"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img 
 src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p> 
