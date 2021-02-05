@@ -25,13 +25,13 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   <img src="./icons/docker.svg" alt="docker" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="./icons/python.svg" alt="python" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="40" height="40"/> 
+  <img src="./icons/react.svg" alt="react" width="40" height="40"/> 
+  <img src="./icons/redux.svg" alt="redux" width="40" height="40"/> 
+  <img src="./icons/scala.svg" alt="scala" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="./icons/typescript.svg" alt="typescript" width="40" height="40"/>
 </p> 
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=skalskip&show_icons=true alt="skalskip" /> </p>
