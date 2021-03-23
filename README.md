@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skalskip" alt="skalskip" /> </p>
 
 <h1 align="center">Hi 👋, I'm Piotr</h1>
-<h3 align="center">AI Engineer @unleashlive | Founder @ makesense.ai</h3>
+<h3 align="center">AI Engineer @unleashlive</h3>
 
 <p align="center">
 <a href="https://dev.to/skalskip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="skalskip" height="20" width="20" /></a>
@@ -11,7 +11,12 @@
 <a href="https://medium.com/@piotr.skalski92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@piotr.skalski92" height="20" width="20" /></a>
 </p>
 
-### Blogs posts
+### Open source
+
+- [makesense.ai](https://www.makesense.ai/) - Free to use online tool for labelling photos.
+- [onemetric](https://skalskip.github.io/onemetric/) - Metrics Library to Evaluate Machine Learning Algorithms in Python.
+
+### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Let’s code Convolutional Neural Network in plain NumPy](https://towardsdatascience.com/lets-code-convolutional-neural-network-in-plain-numpy-ce48e732f5d5?source=rss-11b65705ec0------2)
 - [Knowing What and Why? — Explaining Image Classifier Predictions](https://towardsdatascience.com/knowing-what-and-why-explaining-image-classifier-predictions-680a15043bad?source=rss-11b65705ec0------2)
