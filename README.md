@@ -11,6 +11,11 @@
 <a href="https://medium.com/@piotr.skalski92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@piotr.skalski92" height="20" width="20" /></a>
 </p>
 
+<p align="center">
+<img width="53%" src=https://github-readme-stats.vercel.app/api?username=skalskip&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true />
+<img width="43%" src="https://github-readme-streak-stats.herokuapp.com?user=SkalskiP&hide_border=true" />
+</p>
+
 ### Open source
 
 - [makesense.ai](https://www.makesense.ai/) - Free to use online tool for labelling photos.
@@ -25,7 +30,7 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./icons/aws.svg" alt="aws" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   <img src="./icons/docker.svg" alt="docker" width="40" height="40"/> 
@@ -37,6 +42,6 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   <img src="./icons/scala.svg" alt="scala" width="40" height="40"/>
-</p> 
+</p>  -->
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=skalskip&show_icons=true alt="skalskip" /> </p>
+
