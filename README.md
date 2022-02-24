@@ -3,58 +3,32 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 <h3 align="center">AI Engineer @unleashlive</h3>
 
-<p align="center">
-  <a 
-     href="https://dev.to/skalskip" 
-     target="blank"
-  >
-    <img 
-         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" 
-         height="30" 
-         width="30"
-    />
-  </a>
-  <a 
-     href="https://twitter.com/piotrskalski92" 
-     target="blank"
-  >
-    <img 
-         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" 
-         height="30" 
-         width="30" 
-    />
-  </a>
-  <a 
-     href="https://linkedin.com/in/piotr-skalski-36b5b4122" 
-     target="blank"
-  >
-    <img 
-         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" 
-         height="30" 
-         width="30"
-    />
-  </a>
-  <a 
-     href="https://kaggle.com/skalskip" 
-     target="blank"
-   >
-    <img 
-         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" 
-         height="30" 
-         width="30"
-     />
-  </a>
-  <a 
-     href="https://medium.com/@piotr.skalski92" 
-     target="blank"
-  >
-    <img 
-         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" 
-         height="30" 
-         width="30"
-    />
-  </a>
-</p>
+<br/>
+
+<div align="center">
+    <a href="https://dev.to/skalskip">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" width="3%"/>
+    </a>
+    <img width="3%" />
+    <a href="https://twitter.com/piotrskalski92">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="3%"/>
+    </a>
+    <img width="3%" />
+    <a href="https://linkedin.com/in/piotr-skalski-36b5b4122">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="3%"/>
+    </a>
+    <img width="3%" />
+    <a href="https://kaggle.com/skalskip">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" width="3%"/>
+    </a>
+    <img width="3%" />
+    <a href="https://medium.com/@piotr.skalski92">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="3%" />
+    </a>
+</div>
+
+<br/>
+<br/>
 
 <p align="center">
 <img width="50%" src=https://github-readme-stats.vercel.app/api?username=skalskip&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true />
