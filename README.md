@@ -7,7 +7,7 @@
 
 <div align="center">
     <a href="https://dev.to/skalskip">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" width="3%"/>
+        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/dev.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://twitter.com/piotrskalski92">
@@ -19,11 +19,11 @@
     </a>
     <img width="3%" />
     <a href="https://kaggle.com/skalskip">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" width="3%"/>
+        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/kaggle.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://medium.com/@piotr.skalski92">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="3%" />
+        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/medium.png" width="3%" />
     </a>
 </div>
 
