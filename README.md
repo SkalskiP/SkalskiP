@@ -11,7 +11,7 @@
     </a>
     <img width="3%" />
     <a href="https://twitter.com/piotrskalski92">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="3%"/>
+        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/twitter.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://linkedin.com/in/piotr-skalski-36b5b4122">
