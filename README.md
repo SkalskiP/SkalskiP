@@ -6,8 +6,8 @@
 <br/>
 
 <div align="center">
-    <a href="https://dev.to/skalskip">
-        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/dev.png" width="3%"/>
+    <a href="https://github.com/SkalskiP">
+        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/github.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://twitter.com/piotrskalski92">
