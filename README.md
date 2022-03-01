@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skalskip" alt="skalskip" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skalskip&style=flat-square" alt="skalskip" /> </p>
 
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 <h3 align="center">AI Engineer @unleashlive</h3>
