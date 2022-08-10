@@ -10,7 +10,7 @@
         <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/github.png" width="3%"/>
     </a>
     <img width="3%" />
-    <a href="https://twitter.com/piotrskalski92">
+    <a href="https://twitter.com/skalskip92">
         <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/twitter.png" width="3%"/>
     </a>
     <img width="3%" />
