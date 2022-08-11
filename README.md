@@ -14,6 +14,10 @@
         <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/twitter.png" width="3%"/>
     </a>
     <img width="3%" />
+    <a href="https://www.twitch.tv/skalskip">
+        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/twitch.png" width="3%"/>
+    </a>
+    <img width="3%" />
     <a href="https://linkedin.com/in/piotr-skalski-36b5b4122">
         <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/linkedin.png" width="3%"/>
     </a>
