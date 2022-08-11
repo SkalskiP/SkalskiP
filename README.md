@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skalskip" alt="skalskip" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skalskip&style=flat-square" alt="skalskip" /> </p>
 
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 <h3 align="center">AI Engineer @unleashlive</h3>
@@ -6,11 +6,11 @@
 <br/>
 
 <div align="center">
-    <a href="https://dev.to/skalskip">
-        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/dev.png" width="3%"/>
+    <a href="https://github.com/SkalskiP">
+        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/github.png" width="3%"/>
     </a>
     <img width="3%" />
-    <a href="https://twitter.com/piotrskalski92">
+    <a href="https://twitter.com/skalskip92">
         <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/twitter.png" width="3%"/>
     </a>
     <img width="3%" />
