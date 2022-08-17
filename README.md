@@ -31,6 +31,8 @@
 
 ## <div align="center">twitch</div>
 
+<p align="center">Don't miss the next stream. Subscribe!</p>
+
 <div align="center">
     <a href="https://www.twitch.tv/skalskip">
         <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/twitch.png" width="8%"/>
@@ -41,5 +43,5 @@
 
 | make sense | one metric |
 |:----------:|:----------:|
-| <br/><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/make-sense.png" height="50%" /><br/><br/> | <br/><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/one-metric.png" height="50%" /><br/><br/> |
+| <br/><a href="https://github.com/SkalskiP/make-sense"><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/make-sense.png" width="20%" /></a><br/><br/> | <br/><a href="https://github.com/SkalskiP/onemetric"><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/one-metric.png" width="20%" /></a><br/><br/> |
 | Free to use online tool for labelling photos in small Computer Vision projects. | Metrics library to efficiently evaluate Computer Vision models in Python. |
