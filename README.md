@@ -41,5 +41,5 @@
 
 | make sense | one metric |
 |:----------:|:----------:|
-| <br/><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/make-sense-100x100.png" height="50%" /><br/><br/> | <br/><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/make-sense-100x100.png" height="50%" /><br/><br/> |
+| <br/><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/make-sense.png" height="50%" /><br/><br/> | <br/><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/one-metric.png" height="50%" /><br/><br/> |
 | Free to use online tool for labelling photos in small Computer Vision projects. | Metrics library to efficiently evaluate Computer Vision models in Python. |
