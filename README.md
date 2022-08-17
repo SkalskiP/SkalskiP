@@ -39,7 +39,7 @@
 
 ## <div align="center">open source</div>
 
-| make sense | one metric | yolov5 js |
-|:----------:|:----------:|:--------:|
-| <br/><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/make-sense-100x100.png" height="100px" /><br/><br/> | <br/><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/make-sense-100x100.png" height="100px" /><br/><br/> | <br/><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/make-sense-100x100.png" height="100px" /><br/><br/> |
-| Free to use online tool for labelling photos. | Metrics Library to Evaluate Machine Learning Algorithms in Python. | JavaScript package that allows |
+| make sense | one metric |
+|:----------:|:----------:|
+| <br/><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/make-sense-100x100.png" height="50%" /><br/><br/> | <br/><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/make-sense-100x100.png" height="50%" /><br/><br/> |
+| Free to use online tool for labelling photos for small Computer Vision projects. | Metrics library to efficiently evaluate Computer Vision models. |
