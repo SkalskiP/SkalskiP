@@ -41,10 +41,10 @@
 
 ## <div align="center">open source</div>
 
-| make sense | one metric |
+| make sense | yolov5.js |
 |:----------:|:----------:|
-| <br/><a href="https://github.com/SkalskiP/make-sense"><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/make-sense.png" width="20%" /></a><br/><br/> | <br/><a href="https://github.com/SkalskiP/onemetric"><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/one-metric.png" width="20%" /></a><br/><br/> |
-| Free to use online tool for labelling photos in small Computer Vision projects. | Metrics library to efficiently evaluate Computer Vision models in Python. |
+| <br/><a href="https://github.com/SkalskiP/make-sense"><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/make-sense.png" width="20%" /></a><br/><br/> | <br/><a href="[https://github.com/SkalskiP/yolov5js"><img src="https://user-images.githubusercontent.com/26109316/195828394-1906b7aa-cfbb-4c0e-8755-25bbe5fdc22f.png" width="20%" /></a><br/><br/> |
+| Free to use online tool for labelling photos in small Computer Vision projects. | Effortless YOLOv5 JavaScript deployment. Enrich your website with Computer Vision. |
 
 <br/>
 
