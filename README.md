@@ -45,3 +45,11 @@
 |:----------:|:----------:|
 | <br/><a href="https://github.com/SkalskiP/make-sense"><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/make-sense.png" width="20%" /></a><br/><br/> | <br/><a href="https://github.com/SkalskiP/onemetric"><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/one-metric.png" width="20%" /></a><br/><br/> |
 | Free to use online tool for labelling photos in small Computer Vision projects. | Metrics library to efficiently evaluate Computer Vision models in Python. |
+
+<br/>
+
+## <div align="center">blog posts</div>
+
+|            | views (reads) |                                                                                                      | 
+|:----------:|:----------:|:------------------------------------------------------------------------------------------------------------------|
+| <a href="https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795"><img src="https://user-images.githubusercontent.com/26109316/195819428-b36b50e3-ea64-4100-acf4-6f17bb28760a.gif" width="100%" /></a> | 247K (74K) |  <h2><a href="https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795">Let’s code a Neural Network in plain NumPy</a></h2> <br/> [...] Not so long ago I published an article, explaining — in a simple way — how neural nets work. However, it was highly theoretical post, dedicated primarily to math, which is the source of NN superpower. From the beginning I was planning to follow-up this topic in a more practical way. This time we will try to utilize our knowledge and build a fully operational neural network using only NumPy. [...]|
