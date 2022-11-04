@@ -51,7 +51,7 @@
 
 ## <div align="center">videos</div>
 
-[![how-to-train-yolov5-instance-segmentation-on-a-custom-dataset](https://user-images.githubusercontent.com/26109316/199701008-a8401e31-3b9b-426d-b023-4d0ad65010a6.jpg)](https://www.youtube.com/watch?v=vKzfvtEtiYo)
+[![how-to-train-yolov5-classification-on-a-custom-dataset](https://user-images.githubusercontent.com/26109316/200084907-442470fc-a21d-4a29-bda9-58d05af01c78.png)](https://youtu.be/DPjp9Kq4qn8)
 
 <br/>
 
