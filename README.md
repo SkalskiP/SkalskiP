@@ -55,6 +55,10 @@
 
 <br/>
 
+[![how-to-train-detectron2-segmentation-on-a-custom-dataset](https://user-images.githubusercontent.com/26109316/200933825-d1e875cc-57e9-4646-a41b-3dbeb3c09777.png)](https://www.youtube.com/watch?v=e8LPflX0nwQ)
+
+<br/>
+
 ## <div align="center">blog posts</div>
 
 | views (reads) |                                                                                                                   | 
