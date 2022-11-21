@@ -24,7 +24,7 @@
         <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/kaggle.png" width="4%"/>
     </a>
     <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
-    <a href="https://medium.com/@piotr.skalski92">
+    <a href="https://skalskip.medium.com/">
         <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/medium.png" width="4%" />
     </a>
 </div>
