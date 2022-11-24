@@ -52,11 +52,11 @@
 
 ## <div align="center">videos</div>
 
-[![how-to-train-yolov5-classification-on-a-custom-dataset](https://user-images.githubusercontent.com/26109316/200084907-442470fc-a21d-4a29-bda9-58d05af01c78.png)](https://youtu.be/DPjp9Kq4qn8)
+[![how-to-train-detectron2-segmentation-on-a-custom-dataset](https://user-images.githubusercontent.com/26109316/200933825-d1e875cc-57e9-4646-a41b-3dbeb3c09777.png)](https://www.youtube.com/watch?v=e8LPflX0nwQ)
 
 <br/>
 
-[![how-to-train-detectron2-segmentation-on-a-custom-dataset](https://user-images.githubusercontent.com/26109316/200933825-d1e875cc-57e9-4646-a41b-3dbeb3c09777.png)](https://www.youtube.com/watch?v=e8LPflX0nwQ)
+[![one-former-one-segmentation-model-to-rule-them-all](https://user-images.githubusercontent.com/26109316/203776646-fd550526-4cbb-452a-91a9-2107651e6cc2.png)](https://youtu.be/_Zr1pOi7Chw)
 
 <br/>
 
