@@ -52,7 +52,7 @@
 
 ## <div align="center">videos</div>
 
-[![football-players-pose-estimation](https://user-images.githubusercontent.com/26109316/208673131-fec01e12-2e89-4a84-b92c-56eb6f8edb93.png)](https://youtu.be/AWjKfjDGiYE)
+[![football-players-pose-estimation](https://user-images.githubusercontent.com/26109316/208673906-7c6e81b2-91a1-41d1-acbe-0e068a6e28f6.png)](https://youtu.be/AWjKfjDGiYE)
 
 <br/>
 
