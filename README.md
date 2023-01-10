@@ -56,15 +56,15 @@
 
 ## <div align="center">videos</div>
 
+[![yolov8-object-detection](https://user-images.githubusercontent.com/26109316/211528639-97fd2dc8-1a12-48b2-951f-676178761f62.jpg)](https://youtu.be/wuZtUMEiKWY)
+
+<br/>
+
 [![football-players-pose-estimation](https://user-images.githubusercontent.com/26109316/208673906-7c6e81b2-91a1-41d1-acbe-0e068a6e28f6.png)](https://youtu.be/AWjKfjDGiYE)
 
 <br/>
 
 [![how-to-track-footbal-players](https://user-images.githubusercontent.com/26109316/206256302-37fc0cee-713c-4d58-90af-bf440c0d801f.png)](https://youtu.be/QCG8QMhga9k)
-
-<br/>
-
-[![one-former-one-segmentation-model-to-rule-them-all](https://user-images.githubusercontent.com/26109316/203776646-fd550526-4cbb-452a-91a9-2107651e6cc2.png)](https://youtu.be/_Zr1pOi7Chw)
 
 <br/>
 
