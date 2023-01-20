@@ -1,5 +1,4 @@
 [![Github Stars](https://img.shields.io/badge/stars-nominate-brightgreen?logo=github)](https://stars.github.com/nominate/)
-![skalskip](https://road-to-kaggle-grandmaster.vercel.app/api/simple/skalskip)
 ![Profile Views](https://komarev.com/ghpvc/?username=skalskip&style=flat)
 
 <h1 align="center">Hi 👋, I'm Piotr</h1>
