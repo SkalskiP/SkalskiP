@@ -72,10 +72,18 @@
 
 ## <div align="center">blog posts</div>
 
-| views (reads) |                                                                                                                   | 
-|:-------------:|:------------------------------------------------------------------------------------------------------------------|
-| 193K **(68K)** |  <h2><a href="https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba">Deep Dive into Math Behind Deep Networks</a></h2> <br/> Nowadays, having at our disposal many high-level, specialized libraries and frameworks such as Keras, TensorFlow or PyTorch, we do not need to constantly worry about the size of our weights matrices or remembers formula for the derivative of activation function we decided to use. Often all we need to create a neural network, even one with a very complicated structure, is a few imports and a few lines of code. [...] <br/><br/>|
-| 261K **(78K)** |  <h2><a href="https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795">Let’s code a Neural Network in plain NumPy</a></h2> <br/> [...] Not so long ago I published an article, explaining — in a simple way — how neural nets work. However, it was highly theoretical post, dedicated primarily to math, which is the source of NN superpower. From the beginning I was planning to follow-up this topic in a more practical way. This time we will try to utilize our knowledge and build a fully operational neural network using only NumPy. [...] <br/><br/> |
-| 161K **(52K)** |  <h2><a href="https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9">Gentle Dive into Math Behind Convolutional Neural Networks</a></h2> <br/> Autonomous driving, healthcare or retail are just some of the areas where Computer Vision has allowed us to achieve things that, until recently, were considered impossible. Today the dream of a self driving car or automated grocery store does not sound so futuristic anymore. In fact, we are using Computer Vision every day — when we unlock the phone with our face or automatically retouch photos before posting them on social media. [...] <br/><br/> |
+<p align="left">
+<a href="https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba" title="Deep Dive into Math Behind Deep Networks"><img src="https://github.com/SkalskiP/SkalskiP/assets/26109316/170eb136-7818-48dd-9fdb-75fafc4622f2" alt="Deep Dive into Math Behind Deep Networks" width="300px" align="left" /></a>
+<a href="https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba" title="Deep Dive into Math Behind Deep Networks"><strong>Deep Dive into Math Behind Deep Networks</strong></a>
+<div><strong>Views: 193K</strong> | <strong>Reads: 68K</strong></div>
+<br/> Nowadays, having at our disposal many high-level, specialized libraries and frameworks such as Keras, TensorFlow or PyTorch, we do not need to constantly worry about the size of our weights matrices or remembers formula for the derivative of activation function we decided to use. Often all we need to create a neural network, even one with a very complicated structure, is a few imports and a few lines of code... </p> <br/> <br/>
+<p align="left">  <br/> <br/>
+    
+<p align="left">
+<a href="https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795" title="Let’s code a Neural Network in plain NumPy"><img src="https://github.com/SkalskiP/SkalskiP/assets/26109316/a8a527c4-51bd-40a2-8f50-d19cd9b7852e" alt="Let’s code a Neural Network in plain NumPy" width="300px" align="left" /></a>
+<a href="https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795" title="Let’s code a Neural Network in plain NumPy"><strong>Let’s code a Neural Network in plain NumPy</strong></a>
+<div><strong>Views: 261K</strong> | <strong>Reads: 78K</strong></div>
+<br/> Not so long ago I published an article, explaining — in a simple way — how neural nets work. However, it was highly theoretical post, dedicated primarily to math, which is the source of NN superpower. From the beginning I was planning to follow-up this topic in a more practical way. This time we will try to utilize our knowledge and build a fully operational neural network using only NumPy... </p> <br/> <br/>
+<p align="left">  <br/> <br/>
 
 ![](https://hit.yhype.me/github/profile?user_id=26109316)
