@@ -44,26 +44,29 @@
     </a>
 </div>
 
-## <div align="center">open source</div>
-
-| make sense | yolov5.js |
-|:----------:|:----------:|
-| <br/><a href="https://github.com/SkalskiP/make-sense"><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/make-sense.png" width="20%" /></a><br/><br/> | <br/><a href="https://github.com/SkalskiP/yolov5js"><img src="https://user-images.githubusercontent.com/26109316/195828394-1906b7aa-cfbb-4c0e-8755-25bbe5fdc22f.png" width="20%" /></a><br/><br/> |
-| Free to use online tool for labelling photos in small Computer Vision projects. | Effortless YOLOv5 JavaScript deployment. Enrich your website with Computer Vision. |
-
+<br/>
 
 ## <div align="center">latest youtube videos</div>
 
 <p align="left">
 <a href="https://youtu.be/oEQYStnF2l8" title="Accelerate Image Annotation with SAM and Grounding DINO"><img src="https://github.com/SkalskiP/SkalskiP/assets/26109316/ae1ca38e-40b7-4b35-8582-e8ea5de3806e" alt="Accelerate Image Annotation with SAM and Grounding DINO" width="300px" align="left" /></a>
 <a href="https://youtu.be/oEQYStnF2l8" title="Accelerate Image Annotation with SAM and Grounding DINO"><strong>Accelerate Image Annotation with SAM and Grounding DINO</strong></a>
-<div><strong>Updated: 20 Apr 2023</strong> | <strong>Updated: 20 Apr 2023</strong></div>
+<div><strong>Created: 20 Apr 2023</strong> | <strong>Updated: 20 Apr 2023</strong></div>
 <br/> Discover how to speed up your image annotation process using Grounding DINO and Segment Anything Model (SAM). Learn how to convert object detection datasets into instance segmentation datasets, and see the potential of using these models to automatically annotate your datasets for real-time detectors like YOLOv8... </p> <br/> <br/>
 <p align="left">
 <a href="https://youtu.be/oEQYStnF2l8" title="SAM - Segment Anything Model by Meta AI: Complete Guide"><img src="https://github.com/SkalskiP/SkalskiP/assets/26109316/6913ff11-53c6-4341-8d90-eaff3023c3fd" alt="SAM - Segment Anything Model by Meta AI: Complete Guide" width="300px" align="left" /></a>
 <a href="https://youtu.be/oEQYStnF2l8" title="SAM - Segment Anything Model by Meta AI: Complete Guide"><strong>SAM - Segment Anything Model by Meta AI: Complete Guide</strong></a>
-<div><strong>Updated: 11 Apr 2023</strong> | <strong>Updated: 11 Apr 2023</strong></div>
-<br/> Discover the incredible potential of Meta AI's Segment Anything Model (SAM)! We dive into SAM, an efficient and promptable model for image segmentation, which has revolutionized computer vision tasks. With over 1 billion masks on 11M licensed and privacy-respecting images, SAM's zero-shot performance is often competitive with or even superior to prior fully supervised results... </p> <br/> <br/>
+<div><strong>Created: 11 Apr 2023</strong> | <strong>Updated: 11 Apr 2023</strong></div>
+<br/> Discover the incredible potential of Meta AI's Segment Anything Model (SAM)! We dive into SAM, an efficient and promptable model for image segmentation, which has revolutionized computer vision tasks. With over 1 billion masks on 11M licensed and privacy-respecting images, SAM's zero-shot performance is often competitive with or even superior to prior fully supervised results... </p>
+
+<br/> 
+
+## <div align="center">open source</div>
+
+| make sense | yolov5.js |
+|:----------:|:----------:|
+| <br/><a href="https://github.com/SkalskiP/make-sense"><img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/make-sense.png" width="20%" /></a><br/><br/> | <br/><a href="https://github.com/SkalskiP/yolov5js"><img src="https://user-images.githubusercontent.com/26109316/195828394-1906b7aa-cfbb-4c0e-8755-25bbe5fdc22f.png" width="20%" /></a><br/><br/> |
+| Free to use online tool for labelling photos in small Computer Vision projects. | Effortless YOLOv5 JavaScript deployment. Enrich your website with Computer Vision. |
 
 <br/>
 
