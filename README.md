@@ -83,6 +83,7 @@
 <p align="left">  
     
 <br/>
+<br/>
 
 <p align="left">
 <a href="https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795" title="Let’s code a Neural Network in plain NumPy"><img src="https://github.com/SkalskiP/SkalskiP/assets/26109316/f45cbb02-616d-43e7-b1d7-dd29e9ee0b54" alt="Let’s code a Neural Network in plain NumPy" width="300px" align="left" /></a>
