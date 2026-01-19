@@ -34,18 +34,6 @@
 
 <br/>
 
-## <div align="center">twitch</div>
-
-<p align="center">Don't miss the next stream. Subscribe!</p>
-
-<div align="center">
-    <a href="https://www.twitch.tv/skalskip">
-        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/twitch.png" width="8%"/>
-    </a>
-</div>
-
-<br/>
-
 ## <div align="center">latest youtube videos</div>
 
 <p align="left">
@@ -92,9 +80,9 @@
 ## <div align="center">blog posts</div>
 
 <p align="left">
-<a href="https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba" title="Deep Dive into Math Behind Deep Networks"><img src="https://github.com/SkalskiP/SkalskiP/assets/26109316/25ce7830-2c73-45d9-afb1-3c1077220ea4" alt="Deep Dive into Math Behind Deep Networks" width="300px" align="left" /></a>
-<a href="https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba" title="Deep Dive into Math Behind Deep Networks"><strong>Deep Dive into Math Behind Deep Networks</strong></a>
-<div><strong>Views: 193K</strong> | <strong>Reads: 68K</strong></div>
+<a href="https://medium.com/data-science/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba" title="Deep Dive into Math Behind Deep Networks"><img src="https://github.com/SkalskiP/SkalskiP/assets/26109316/25ce7830-2c73-45d9-afb1-3c1077220ea4" alt="Deep Dive into Math Behind Deep Networks" width="300px" align="left" /></a>
+<a href="https://medium.com/data-science/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba" title="Deep Dive into Math Behind Deep Networks"><strong>Deep Dive into Math Behind Deep Networks</strong></a>
+<div><strong>Views: 200K</strong> | <strong>Reads: 71K</strong></div>
 <br/> Nowadays, having at our disposal many high-level, specialized libraries and frameworks such as Keras, TensorFlow or PyTorch, we do not need to constantly worry about the size of our weights matrices or remembers formula for the derivative of activation function we decided to use. Often all we need to create a neural network, even one with a very complicated structure, is a few imports and a few lines of code... </p> <br/> <br/>
 <p align="left">  
     
@@ -102,9 +90,9 @@
 <br/>
 
 <p align="left">
-<a href="https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795" title="Let’s code a Neural Network in plain NumPy"><img src="https://github.com/SkalskiP/SkalskiP/assets/26109316/f45cbb02-616d-43e7-b1d7-dd29e9ee0b54" alt="Let’s code a Neural Network in plain NumPy" width="300px" align="left" /></a>
-<a href="https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795" title="Let’s code a Neural Network in plain NumPy"><strong>Let’s code a Neural Network in plain NumPy</strong></a>
-<div><strong>Views: 261K</strong> | <strong>Reads: 78K</strong></div>
+<a href="https://medium.com/data-science/lets-code-a-neural-network-in-plain-numpy-ae7e74410795" title="Let’s code a Neural Network in plain NumPy"><img src="https://github.com/SkalskiP/SkalskiP/assets/26109316/f45cbb02-616d-43e7-b1d7-dd29e9ee0b54" alt="Let’s code a Neural Network in plain NumPy" width="300px" align="left" /></a>
+<a href="https://medium.com/data-science/lets-code-a-neural-network-in-plain-numpy-ae7e74410795" title="Let’s code a Neural Network in plain NumPy"><strong>Let’s code a Neural Network in plain NumPy</strong></a>
+<div><strong>Views: 288K</strong> | <strong>Reads: 97K</strong></div>
 <br/> Not so long ago I published an article, explaining — in a simple way — how neural nets work. However, it was highly theoretical post, dedicated primarily to math, which is the source of NN superpower. From the beginning I was planning to follow-up this topic in a more practical way. This time we will try to utilize our knowledge and build a fully operational neural network using only NumPy... </p> <br/> <br/>
 <p align="left">  
 
