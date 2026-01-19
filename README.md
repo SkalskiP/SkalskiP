@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=skalskip&style=flat)
 
 <h1 align="center">Hi 👋, I'm Piotr</h1>
-<h3 align="center">Computer Vision, Growth @roboflow</h3>
+<h3 align="center">Open-source Lead @roboflow</h3>
 
 <br/>
 
